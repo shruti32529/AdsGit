@@ -1,1 +1,2 @@
 # AdsGit
+.gitignore
